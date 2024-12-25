@@ -1,4 +1,4 @@
-# iki-chatbot
+# iku-chatbot
 
 
 ## Kullanım
