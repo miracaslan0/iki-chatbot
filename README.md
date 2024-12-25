@@ -14,7 +14,7 @@ Chatbot'u başlattıktan sonra aşağıdaki komutları kullanabilirsiniz:
 - `mod`: Duygu durumu analizini gösterir
 - `q`: Çıkış yapar
 
-## Lisans
+## Kullanımdan görüntüler
 
 <img width="1026" alt="Ekran Resmi 2024-12-25 23 31 40" src="https://github.com/user-attachments/assets/8fbcc8ec-6591-4e0d-b9d0-45148bfc4686" />
 <img width="1030" alt="Ekran Resmi 2024-12-25 23 32 38" src="https://github.com/user-attachments/assets/0c7d2825-0842-4668-8625-8e237b2977a2" />
