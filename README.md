@@ -15,5 +15,3 @@ Chatbot'u başlattıktan sonra aşağıdaki komutları kullanabilirsiniz:
 - `q`: Çıkış yapar
 
 ## Lisans
-
-MIT License
